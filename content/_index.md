@@ -17,5 +17,5 @@ I believe in open source, and am a member of a number of music software & hardwa
 
 [Poly Square: A polyphonic square oscillator with detuning for the EuroPi](https://github.com/t-schreibs/EuroPi/blob/main/software/contrib/poly_square.py)
 
-[Send me an email](mailto:tylereschreiber@gmail.com) if you'd like to discuss project proposals & performance opportunities, or else if you'd just like to say hi!
+[Send me an email](<mailto:tylereschreiber@gmail.com>) if you'd like to discuss project proposals & performance opportunities, or else if you'd just like to say hi!
 
