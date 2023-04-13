@@ -1,27 +1,21 @@
 ---
-title: 🪴 Quartz 3.3
+title: Tyler Schreiber
 enableToc: false
 ---
 
-Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
+### Hey, how's it going?
 
-1. Extremely fast natural-language [[notes/search]]
-2. Customizable and hackable design based on [Hugo](https://gohugo.io/)
-3. Automatically generated backlinks, link previews, and local graph
-4. Built-in [[notes/CJK + Latex Support (测试) | CJK + Latex Support]] and [[notes/callouts | Admonition-style callouts]]
-5. Support for both Markdown Links and Wikilinks
+My name's Tyler, and I'm a [programmer](https://github.com/t-schreibs) and [musician](https://scribble-t.bandcamp.com) based out of Portland, Oregon. I'm the lead guitarist for [Combobox](https://www.combobox.band), and I've been cooking up an interesting audio-visual solo project in my free time. Some of my work over the last year:
 
-Check out some of the [amazing gardens that community members](notes/showcase.md) have published with Quartz or read about [why I made Quartz](notes/philosophy.md) to begin with.
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/track=110125775/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://scribble-t.bandcamp.com/track/1-5">1-5 by scribble t</a></iframe>
 
-## Get Started
-> 📚 Step 1: [Setup your own digital garden using Quartz](notes/setup.md)
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/track=3390187097/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://scribble-t.bandcamp.com/track/4-6">4-6 by scribble t</a></iframe>
 
-Returning user? Figure out how to [[notes/updating|update]] your existing Quartz garden.
+I believe in open source, and am a member of a number of music software & hardware communities. A couple recent projects:
 
-If you prefer browsing the contents of this site through a list instead of a graph, you see a list of all [setup-related notes](/tags/setup).
+[PIOClock: A simple square wave clock for the Raspberry Pi Pico](https://github.com/t-schreibs/PIOClock)
 
-### Troubleshooting
-- 🚧 [Troubleshooting and FAQ](notes/troubleshooting.md)
-- 🐛 [Submit an Issue](https://github.com/jackyzha0/quartz/issues)
-- 👀 [Discord Community](https://discord.gg/cRFFHYye7t)
+[Poly Square: A polyphonic square oscillator with detuning for the EuroPi](https://github.com/t-schreibs/EuroPi/blob/main/software/contrib/poly_square.py)
+
+[Send me an email](mailto:tylereschreiber@gmail.com) if you'd like to discuss project proposals & performance opportunities, or else if you'd just like to say hi!
 
