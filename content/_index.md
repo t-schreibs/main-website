@@ -19,8 +19,8 @@ I believe in open source, and am a member of a number of music software & hardwa
 
 <a href="mailto:tylereschreiber@gmail.com">Send me an email</a> if you'd like to discuss project proposals & performance opportunities, if you'd like to access to my demo reel, or else if you'd just like to say hi!
 
-<p float="left">
+<div style="display: flex;">
   <img src="/Combobox-48.jpg" width="67%" />
   <img src="/Combobox-33.jpg" width="33%" />
-</p>
+</div>
 
